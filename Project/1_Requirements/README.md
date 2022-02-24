@@ -16,6 +16,6 @@
 |HLR_02| The robot shall expected to balance itself and also the payload while working.|Functional | To be implemented |
 |HLR_03| The robot shall balance itself from sudden obstacle.| Functional | To be implemented |
 |HLR_04| The robot shall expected to calculate the torque required. | Functional | To be implemented |
-|HLR_05| The robot shall expected to calculate the torque and speed required to balance itself. | Functional | To be implemented |
+|HLR_05| The robot shall expected to calculate the torque and speed required to balance itself. | Technical | To be implemented |
 
 
