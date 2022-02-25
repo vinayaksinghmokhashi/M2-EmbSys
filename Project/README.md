@@ -60,6 +60,25 @@
 
 ![Untitled](https://user-images.githubusercontent.com/98843684/155759301-6e9c138b-fa66-43b0-af22-87c89a57f155.png)
 
+## Flow charts:
+
+## Component Diagram:
+![Screenshot from 2022-02-21 00-19-25](https://user-images.githubusercontent.com/98843684/155760433-535eb24f-f37f-423a-bfc1-db17a4b079d3.png)
+
+
+## UML Diagram:
+![Screenshot from 2022-02-21 01-27-46](https://user-images.githubusercontent.com/98843684/155760307-09afa89a-7e2b-467e-b91f-1489c9bd50d0.png)
+
+## Embodiment_diagram:
+
+![Embodiment_diagram](https://user-images.githubusercontent.com/98843684/155760993-ae608a40-89d8-418c-bf0f-e9efc900700c.png)
+
+## Sub functions diagram:
+
+![ub functions diagram](https://user-images.githubusercontent.com/98843684/155761265-41e2a256-1f11-4083-b91d-d56c7cefaf3f.png)
+
+
+
 
 
 
