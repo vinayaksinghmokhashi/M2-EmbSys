@@ -46,7 +46,7 @@
 |SL No | Component | Description|
 |------|-----------|------------|
 | 1. | Arduino Uno | Arduino Uno is a microcontroller board based on the ATmega328P family. It has total 14 digital input/output pins (of which 6 can be used as a PWM outputs), 6 analog inputs pins, a 16 MHz ceramic resonator, an USB connection,  power jack, an ICSP header and a reset button.  |
-| 2. | MPU 6050 | The MPU6050 consists of a 3-axis Accelerometer and 3-axis Gyroscope. Which measure acceleration, velocity, orientation, displacement and many other parametrs |
+| 2. | MPU 6050 (Includes both analog and digital sensors) | The MPU6050 consists of a 3-axis Accelerometer and 3-axis Gyroscope. Which measure acceleration, velocity, orientation, displacement and many other parametrs. It is a combination of accelerometer and gyroscope |
 | 3. | DC Motors | It uses a stationary set of magnets in the stator, and a coil of wire with a current running through it in order to generate an electromagnetic field which is aligned with the centre of the coil. |
 | 4. |  L293D Driver | The L293D is a 16-Pin Motor Driver IC. it is mainly used to drive the motors. A single L293D IC which is capable of running two DC motors at once and also the direction of these two motors can be controlled |
 | 5.| 16x2 LCD |  The term LCD stands for liquid crystal display. It is one kind of electronic display module used in an extensive range of applications like various circuits & devices like mobile phones, calculators, computers, TV sets, etc. These displays are mainly preferred for multi-segment light-emitting diodes and seven segments. The main benefits of using this module are inexpensive. |
