@@ -62,6 +62,11 @@
 
 ## Flow charts:
 
+## Function structure diagram:
+![Flowchart1](https://user-images.githubusercontent.com/98843684/155837393-fbdbda4a-e78e-4a4c-999d-9097a333df31.png)
+![Flowchart2](https://user-images.githubusercontent.com/98843684/155837398-73286f58-370e-4426-a347-eddd2efa18eb.png)
+
+
 ## Component Diagram:
 ![Screenshot from 2022-02-21 00-19-25](https://user-images.githubusercontent.com/98843684/155760433-535eb24f-f37f-423a-bfc1-db17a4b079d3.png)
 
