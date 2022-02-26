@@ -60,6 +60,13 @@
 
 ![Untitled](https://user-images.githubusercontent.com/98843684/155759301-6e9c138b-fa66-43b0-af22-87c89a57f155.png)
 
+## 6. Applications:
+
+Two wheeled balancing robots use a “closed-loop feedback control” system. Which means that real-time data from motion sensors is used to control the motors and quickly compensate for any tilting or imbalance in  motion in order to keep the robot upright. Similar self-balancing feedback control systems can be seen in many other applications in day to day life. Some of the examples include:
+ Segways
+ bipedal robots
+ space rockets
+etc.
 
 
 
