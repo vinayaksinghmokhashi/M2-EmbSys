@@ -18,10 +18,12 @@
 | Test ID | Description | Category | Status |
 |---------|-------------|----------|--------|
 |HLR_01|The robot shall expected to transport a payload from one Location to another.| Functional | To be implemented |
-|HLR_02| The robot shall expected to balance itself and also the payload while working.|Functional | To be implemented |
-|HLR_03| The robot shall balance itself from sudden obstacle.| Functional | To be implemented |
-|HLR_04| The robot shall expected to calculate the torque required. | Functional | To be implemented |
-|HLR_05| The robot shall expected to calculate the torque and speed required to balance itself. | Technical | To be implemented |
+|HLR_02|The robot shall able to control the direction of its motion | Technical | To be implemented |
+|HLR_03| The robot shall expected to balance itself and also the payload while working.|Functional | To be implemented |
+|HLR_04| The robot shall balance itself from sudden obstacle.| Functional | To be implemented |
+|HLR_05| The robot shall able to control its speed of motion| Techical |To be implemented |
+|HLR_06| The robot shall expected to calculate the torque required. | Functional | To be implemented |
+|HLR_07| The robot shall expected to calculate the torque and speed required to balance itself. | Technical | To be implemented |
 
 
 
@@ -49,8 +51,11 @@
 | 2. | MPU 6050 (Includes both analog and digital sensors) | The MPU6050 consists of a 3-axis Accelerometer and 3-axis Gyroscope. Which measure acceleration, velocity, orientation, displacement and many other parametrs. It is a combination of accelerometer and gyroscope |
 | 3. | DC Motors | It uses a stationary set of magnets in the stator, and a coil of wire with a current running through it in order to generate an electromagnetic field which is aligned with the centre of the coil. |
 | 4. |  L293D Driver | The L293D is a 16-Pin Motor Driver IC. it is mainly used to drive the motors. A single L293D IC which is capable of running two DC motors at once and also the direction of these two motors can be controlled |
-| 5.| 16x2 LCD |  The term LCD stands for liquid crystal display. It is one kind of electronic display module used in an extensive range of applications like various circuits & devices like mobile phones, calculators, computers, TV sets, etc. These displays are mainly preferred for multi-segment light-emitting diodes and seven segments. The main benefits of using this module are inexpensive. |
-| 6. | 10 Ohm Potentiometer|  a single turn 10k Potentiometer has a rotating knob.. These three-terminal devices can be used to vary the resistance between 0 to 10k ohms by simply rotating the knob.|
+| 5.| Push button  | It acts a switch to control the direction of the motion in this particular case.  |
+| 6.| Gyroscope(didital sensor) | A gyroscope measures angular velocity (specified in mV/deg/s). 
+| 7. | 10 Ohm Potentiometer|  a single turn 10k Potentiometer has a rotating knob.. These three-terminal devices can be used to vary the resistance between 0 to 10k ohms by simply rotating the knob. In this case potentiometer is used to control the speed of the motors. |
+| 8.| Accelerometer(analog sensor) | Accelerometers measure linear acceleration (specified in mV/g) along one or several axis.In this case it is used to determine the speed to be achived inorder to balance the load. |
+
 
 ## 4. SWOT Analyzes:
 
