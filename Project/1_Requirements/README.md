@@ -35,11 +35,13 @@
 | LLR_01 | The robot shall be receiving the source and destination location from user   | HLR_01 | To be implemented |
 | LLR_O2 |  The robot shall be employing its wheels connected to DC motor to achive its goal | HLR_01  | To be implemented |
 | LLR_03 | The robot shall be carrying load on it throughout the entire process  | HLR_01  | To be implemented |
-| LLR_04 | The robot shall be incorporated with sensors like accelerometer and gyroscope or combination of both inorder to achive the high level requirement 2  | HLR_02   | To be implemented | 
-| LLR_05 | The robot shall be employing the perceived sensory information balance itself and payload  | HLR_02  | To be implemented |
-| LLR_06 | The robot shall be able to sense the loci of itself and act upon the sudden obstacle found in its way avoid it by acting on sensory input  | HLR_03   | To be implemented | 
-| LLR_07 | The robot shall be able to process the sensory input and calculate the required torque to balance itself and to move in its way  |HLR_04   | To be implemented | 
-| LLR_08 | The robot shall be able to decide the speed required for the motion based on the torque calculated  | HLR_5  | To be implemented |
+|LLR_04 | The circuit will be having a switch which controls the direction of motion | HLR_02 |To be implemented |
+| LLR_04 | The robot shall be incorporated with sensors like accelerometer and gyroscope or combination of both inorder to achive the high level requirement 2  | HLR_03  | To be implemented | 
+| LLR_05 | The robot shall be employing the perceived sensory information balance itself and payload  | HLR_03  | To be implemented |
+| LLR_06 | The robot shall be able to sense the loci of itself and act upon the sudden obstacle found in its way avoid it by acting on sensory input  | HLR_04   | To be implemented | 
+| LLR_05| The circuit shall have potentiometer to control the spped of the motion. | HLR_05 |To be implemented |
+| LLR_07 | The robot shall be able to process the sensory input and calculate the required torque to balance itself and to move in its way  |HLR_0   | To be implemented | 
+| LLR_08 | The robot shall be able to decide the speed required for the motion based on the torque calculated  | HLR_7 | To be implemented |
 
 
 
