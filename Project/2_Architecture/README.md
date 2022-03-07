@@ -1,6 +1,3 @@
-
-
 ## Behavioural Diagrams
 
 ## Structural Diagrams
-
