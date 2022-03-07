@@ -4,16 +4,11 @@
 
  Two- wheeled self balancing robot is designed using the concepts of embedded system design. This embedded system is an assembly of various sensors and actuators with Arduino as a processing unit. It is automatic that carries a payload from source location to the destination according to user commands by balancing itself based on sensory inputs.
 
-
-
 ## 2.	Requirements: 
-
 
 ### Requirement design and analyzes of customer needs
 
-
 ## 2.1	High level requirements:
-
 
 | Test ID | Description | Category | Status |
 |---------|-------------|----------|--------|
@@ -25,10 +20,7 @@
 |HLR_06| The robot shall expected to calculate the torque required. | Functional | To be implemented |
 |HLR_07| The robot shall expected to calculate the torque and speed required to balance itself. | Technical | To be implemented |
 
-
-
 ## 2.2 Low level requirements:
-
 
 | Test ID | Description | HLR_id | Status |
 |---------|-------------|--------|--------|
@@ -43,8 +35,6 @@
 | LLR_07 | The robot shall be able to process the sensory input and calculate the required torque to balance itself and to move in its way  |HLR_0   | To be implemented | 
 | LLR_08 | The robot shall be able to decide the speed required for the motion based on the torque calculated  | HLR_7 | To be implemented |
 
-
-
 ## 3. Components used:
 
 |SL No | Component | Description|
@@ -57,7 +47,6 @@
 | 6.| Gyroscope(didital sensor) | A gyroscope measures angular velocity (specified in mV/deg/s). 
 | 7. | 10 Ohm Potentiometer|  a single turn 10k Potentiometer has a rotating knob.. These three-terminal devices can be used to vary the resistance between 0 to 10k ohms by simply rotating the knob. In this case potentiometer is used to control the speed of the motors. |
 | 8.| Accelerometer(analog sensor) | Accelerometers measure linear acceleration (specified in mV/g) along one or several axis.In this case it is used to determine the speed to be achived inorder to balance the load. |
-
 
 ## 4. SWOT Analyzes:
 
@@ -74,6 +63,3 @@ Two wheeled balancing robots use a “closed-loop feedback control” system. Wh
  bipedal robots
  space rockets
 etc.
-
-
-
