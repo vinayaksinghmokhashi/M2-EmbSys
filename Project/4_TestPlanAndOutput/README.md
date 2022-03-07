@@ -4,8 +4,8 @@
 
 |Test id| Description| Exp I/P | Exp O/P |Actual O/P | Test type| Status |
 |-------|------------|---------|---------|-----------|----------|--------|
-| 1| Rototion of the motors |Power on | Motor motion |Motor motion| Technical base |✅ |
-|2| Controlling the speed of motion | Change in potentiometer value | Change in speed |Change in motor speed | Technical base | ✅ |
+| 1| Rotation of the motors |Power on | Motor motion |Motor motion| Technical base |✅ |
+|2| Controlling the speed of motion | Change in potentiometer value | Change in motor speed |Change in motor speed | Technical base | ✅ |
 |3| Controlling the direction of motor | Toggling push button | Change in direction of motion |Change in direction of motion |Technical base|✅ |
 
 ## Table 2
