@@ -2,7 +2,7 @@
 
 ## 1.	Abstract and Problem description
 
- Two- wheeled self balancing robot is designed using the concepts of embedded system design. This embedded system is an assembly of various sensors and actuators with Arduino as a processing unit. It is automatic that carries a payload from source location to the destination according to user commands by balancing itself based on sensory inputs.
+Two- wheeled self balancing robot is designed using the concepts of embedded system design. This embedded system is an assembly of various sensors and actuators with Arduino as a processing unit. It is automatic that carries a payload from source location to the destination according to user commands by balancing itself based on sensory inputs.
 
 ## About code
 ## Badges
@@ -13,12 +13,9 @@
 
 ## 2.	Requirements
 
-
 ### Requirement design and analyzes of customer needs
 
-
 ## 2.1	High level requirements
-
 
 | Test ID | Description | Category | Status |
 |---------|-------------|----------|--------|
@@ -28,10 +25,7 @@
 |HLR_04| The robot shall expected to calculate the torque required. | Functional | To be implemented |
 |HLR_05| The robot shall expected to calculate the torque and speed required to balance itself. | Technical | To be implemented |
 
-
-
 ## 2.2 Low level requirements
-
 
 | Test ID | Description | HLR_id | Status |
 |---------|-------------|--------|--------|
@@ -43,8 +37,6 @@
 | LLR_06 | The robot shall be able to sense the loci of itself and act upon the sudden obstacle found in its way avoid it by acting on sensory input  | HLR_03   | To be implemented | 
 | LLR_07 | The robot shall be able to process the sensory input and calculate the required torque to balance itself and to move in its way  |HLR_04   | To be implemented | 
 | LLR_08 | The robot shall be able to decide the speed required for the motion based on the torque calculated  | HLR_5  | To be implemented |
-
-
 
 ## 3. Components used
 
@@ -71,10 +63,8 @@
 ![Flowchart1](https://user-images.githubusercontent.com/98843684/155837393-fbdbda4a-e78e-4a4c-999d-9097a333df31.png)
 ![Flowchart2](https://user-images.githubusercontent.com/98843684/155837398-73286f58-370e-4426-a347-eddd2efa18eb.png)
 
-
 ## Component Diagram
 ![Screenshot from 2022-02-21 00-19-25](https://user-images.githubusercontent.com/98843684/155760433-535eb24f-f37f-423a-bfc1-db17a4b079d3.png)
-
 
 ## UML Diagram
 ![Screenshot from 2022-02-21 01-27-46](https://user-images.githubusercontent.com/98843684/155760307-09afa89a-7e2b-467e-b91f-1489c9bd50d0.png)
@@ -87,7 +77,6 @@
 
 ![ub functions diagram](https://user-images.githubusercontent.com/98843684/155761265-41e2a256-1f11-4083-b91d-d56c7cefaf3f.png)
 
-
 ## 6. Applications
 
 Two wheeled balancing robots use a “closed-loop feedback control” system. Which means that real-time data from motion sensors is used to control the motors and quickly compensate for any tilting or imbalance in  motion in order to keep the robot upright. Similar self-balancing feedback control systems can be seen in many other applications in day to day life. Some of the examples include:
@@ -95,6 +84,3 @@ Two wheeled balancing robots use a “closed-loop feedback control” system. Wh
  bipedal robots
  space rockets
 etc.
-
-
-
