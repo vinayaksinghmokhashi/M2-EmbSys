@@ -43,7 +43,7 @@
 | 3. | DC Motors | It uses a stationary set of magnets in the stator, and a coil of wire with a current running through it in order to generate an electromagnetic field which is aligned with the centre of the coil. |
 | 4. |  L293D Driver | The L293D is a 16-Pin Motor Driver IC. it is mainly used to drive the motors. A single L293D IC which is capable of running two DC motors at once and also the direction of these two motors can be controlled |
 | 5.| Push button  | It acts a switch to control the direction of the motion in this particular case.  |
-| 6.| Gyroscope (diital sensor) | A gyroscope measures angular velocity (specified in mV/deg/s). 
+| 6.| Gyroscope (digital sensor) | A gyroscope measures angular velocity (specified in mV/deg/s). 
 | 7. | 10 Ohm Potentiometer|  a single turn 10k Potentiometer has a rotating knob.. These three-terminal devices can be used to vary the resistance between 0 to 10k ohms by simply rotating the knob. In this case potentiometer is used to control the speed of the motors. |
 | 8.| Accelerometer(analog sensor) | Accelerometers measure linear acceleration (specified in mV/g) along one or several axis.In this case it is used to determine the speed to be achived inorder to balance the load. |
 
