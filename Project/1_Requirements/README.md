@@ -4,11 +4,11 @@
 
  Two- wheeled self balancing robot is designed using the concepts of embedded system design. This embedded system is an assembly of various sensors and actuators with Arduino as a processing unit. It is automatic that carries a payload from source location to the destination according to user commands by balancing itself based on sensory inputs.
 
-## 2.	Requirements: 
+## 2.	Requirements
 
 ### Requirement design and analyzes of customer needs
 
-## 2.1	High level requirements:
+## 2.1	High level requirements
 
 | Test ID | Description | Category | Status |
 |---------|-------------|----------|--------|
@@ -20,7 +20,7 @@
 |HLR_06| The robot shall expected to calculate the torque required. | Functional | To be implemented |
 |HLR_07| The robot shall expected to calculate the torque and speed required to balance itself. | Technical | To be implemented |
 
-## 2.2 Low level requirements:
+## 2.2 Low level requirements
 
 | Test ID | Description | HLR_id | Status |
 |---------|-------------|--------|--------|
@@ -35,7 +35,7 @@
 | LLR_07 | The robot shall be able to process the sensory input and calculate the required torque to balance itself and to move in its way  |HLR_0   | To be implemented | 
 | LLR_08 | The robot shall be able to decide the speed required for the motion based on the torque calculated  | HLR_7 | To be implemented |
 
-## 3. Components used:
+## 3. Components used
 
 |SL No | Component | Description|
 |------|-----------|------------|
@@ -48,15 +48,15 @@
 | 7. | 10 Ohm Potentiometer|  a single turn 10k Potentiometer has a rotating knob.. These three-terminal devices can be used to vary the resistance between 0 to 10k ohms by simply rotating the knob. In this case potentiometer is used to control the speed of the motors. |
 | 8.| Accelerometer(analog sensor) | Accelerometers measure linear acceleration (specified in mV/g) along one or several axis.In this case it is used to determine the speed to be achived inorder to balance the load. |
 
-## 4. SWOT Analyzes:
+## 4. SWOT Analyzes
 
 ![Screenshot from 2022-02-25 22-37-19](https://user-images.githubusercontent.com/98843684/155757581-2c266b12-3588-41f6-b09d-81a004a3c250.png)
 
-## 5. 5 W's and 1 H:
+## 5. 5 W's and 1 H
 
 ![Untitled](https://user-images.githubusercontent.com/98843684/155759301-6e9c138b-fa66-43b0-af22-87c89a57f155.png)
 
-## 6. Applications:
+## 6. Applications
 
 Two wheeled balancing robots use a “closed-loop feedback control” system. Which means that real-time data from motion sensors is used to control the motors and quickly compensate for any tilting or imbalance in  motion in order to keep the robot upright. Similar self-balancing feedback control systems can be seen in many other applications in day to day life. Some of the examples include:
  Segways
