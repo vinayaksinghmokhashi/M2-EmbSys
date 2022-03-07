@@ -32,4 +32,3 @@
 |1|Direction control|Noramal mode| Clock wise rotation|Clock wise rotation|✅ |
 |2|Direction control|Toggle switch| Anti clock wise rotation|Anti clock wise rotation|✅ |
 |3|Direction control|Toggle switch again| Clock wise rotation|Clock wise rotation|✅ |
-
