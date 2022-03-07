@@ -4,3 +4,5 @@
 main.c file
 
 .c file
+
+.hex file
