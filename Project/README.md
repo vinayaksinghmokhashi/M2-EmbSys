@@ -4,15 +4,20 @@
 
  Two- wheeled self balancing robot is designed using the concepts of embedded system design. This embedded system is an assembly of various sensors and actuators with Arduino as a processing unit. It is automatic that carries a payload from source location to the destination according to user commands by balancing itself based on sensory inputs.
 
+## About code
+## Badges
 
+| Code quality score | Code grade |
+|------------|------------|
+|![Codacy Badge](https://api.codiga.io/project/31626/score/svg) |![Codacy Badge](https://api.codiga.io/project/31626/status/svg) |
 
-## 2.	Requirements: 
+## 2.	Requirements
 
 
 ### Requirement design and analyzes of customer needs
 
 
-## 2.1	High level requirements:
+## 2.1	High level requirements
 
 
 | Test ID | Description | Category | Status |
@@ -25,7 +30,7 @@
 
 
 
-## 2.2 Low level requirements:
+## 2.2 Low level requirements
 
 
 | Test ID | Description | HLR_id | Status |
@@ -41,7 +46,7 @@
 
 
 
-## 3. Components used:
+## 3. Components used
 
 |SL No | Component | Description|
 |------|-----------|------------|
@@ -52,38 +57,38 @@
 | 5.| 16x2 LCD |  The term LCD stands for liquid crystal display. It is one kind of electronic display module used in an extensive range of applications like various circuits & devices like mobile phones, calculators, computers, TV sets, etc. These displays are mainly preferred for multi-segment light-emitting diodes and seven segments. The main benefits of using this module are inexpensive. |
 | 6. | 10 Ohm Potentiometer|  a single turn 10k Potentiometer has a rotating knob.. These three-terminal devices can be used to vary the resistance between 0 to 10k ohms by simply rotating the knob.|
 
-## 4. SWOT Analyzes:
+## 4. SWOT Analyzes
 
 ![Screenshot from 2022-02-25 22-37-19](https://user-images.githubusercontent.com/98843684/155757581-2c266b12-3588-41f6-b09d-81a004a3c250.png)
 
-## 5. 5 W's and 1 H:
+## 5. 5 W's and 1 H
 
 ![Untitled](https://user-images.githubusercontent.com/98843684/155759301-6e9c138b-fa66-43b0-af22-87c89a57f155.png)
 
-## Flow charts:
+## Flow charts
 
-## Function structure diagram:
+## Function structure diagram
 ![Flowchart1](https://user-images.githubusercontent.com/98843684/155837393-fbdbda4a-e78e-4a4c-999d-9097a333df31.png)
 ![Flowchart2](https://user-images.githubusercontent.com/98843684/155837398-73286f58-370e-4426-a347-eddd2efa18eb.png)
 
 
-## Component Diagram:
+## Component Diagram
 ![Screenshot from 2022-02-21 00-19-25](https://user-images.githubusercontent.com/98843684/155760433-535eb24f-f37f-423a-bfc1-db17a4b079d3.png)
 
 
-## UML Diagram:
+## UML Diagram
 ![Screenshot from 2022-02-21 01-27-46](https://user-images.githubusercontent.com/98843684/155760307-09afa89a-7e2b-467e-b91f-1489c9bd50d0.png)
 
-## Embodiment_diagram:
+## Embodiment_diagram
 
 ![Embodiment_diagram](https://user-images.githubusercontent.com/98843684/155760993-ae608a40-89d8-418c-bf0f-e9efc900700c.png)
 
-## Sub functions diagram:
+## Sub functions diagram
 
 ![ub functions diagram](https://user-images.githubusercontent.com/98843684/155761265-41e2a256-1f11-4083-b91d-d56c7cefaf3f.png)
 
 
-## 6. Applications:
+## 6. Applications
 
 Two wheeled balancing robots use a “closed-loop feedback control” system. Which means that real-time data from motion sensors is used to control the motors and quickly compensate for any tilting or imbalance in  motion in order to keep the robot upright. Similar self-balancing feedback control systems can be seen in many other applications in day to day life. Some of the examples include:
  Segways
